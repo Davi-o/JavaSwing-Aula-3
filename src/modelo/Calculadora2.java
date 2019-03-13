@@ -1,11 +1,12 @@
 package modelo;
 /**
  *
- * @author Davi Alves - 11:10
+ * @author Davi Alves - 11:10 //fiz porcaria nos horarios
  * @since 13/03/2019
  * @version 1.0 Arya Version
  */
-public class Calculadora2 { /**
+public class Calculadora2 { 
+    /**
      *
      * @return a soma de num1 e num2
      */
